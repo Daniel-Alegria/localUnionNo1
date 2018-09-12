@@ -1,0 +1,16 @@
+{
+  "name": "Local_Union_No_1",
+  "version": "1.0.0",
+  "description": "Local Union No 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "node-sass": "^4.9.0"
+  }
+}
