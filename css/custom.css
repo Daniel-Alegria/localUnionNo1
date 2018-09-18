@@ -623,7 +623,7 @@ footer .nav-item:before {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #0a0c0d;
+  background-color: #fd5c27;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
